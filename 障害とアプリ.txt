@@ -18,3 +18,5 @@ OpenCVで手認識
 
 https://qiita.com/koteko/items/98a10e3ab4f1a3df637a
 
+OpenCVインストール	pod
+
