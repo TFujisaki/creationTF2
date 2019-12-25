@@ -7,5 +7,14 @@
 
 指文字だけなら何とかなるか？
 
+画像処理が必要
 
+OpenCVを使う
+
+https://docs.opencv.org/master/d5/da3/tutorial_ios_install.html
+
+
+OpenCVで手認識
+
+https://qiita.com/koteko/items/98a10e3ab4f1a3df637a
 
