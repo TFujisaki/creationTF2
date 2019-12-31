@@ -1,0 +1,14 @@
+２０１９年１２月３１日
+
+目標　iPhoneで手話を認識してテキストに置き換える。
+
+
+先行研究の調査開始
+
+Spatial-Temporal Graph Convolutional Networks for Sign Language Recognition
+手話認識論文１.pdf  arXiv:1901.11164v1  [cs.LG]  31 Jan 2019
+
+ST-GCN ST  精度　56.82%　上の論文で提案された手法
+BHOFの 85.00%にはかなわない。
+
+OpenPose
