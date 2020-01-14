@@ -20,3 +20,9 @@ https://qiita.com/koteko/items/98a10e3ab4f1a3df637a
 
 OpenCVインストール	pod
 
+2020.1.14
+実装系がうまくいかない。どうしたらいいんだろう。簡単なハードルを考える。
+
+iPhoneで人工声帯
+
+先行研究の調査もまだまだ。
