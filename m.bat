@@ -1,0 +1,1 @@
+C:\Users\fuku\Desktop\200331_1\smail -hmail.so-net.ne.jp -ftaco@xf6.so-net.ne.jp -s"Compile End" -Fmsg.txt -a tatz.fujisaki314@docomo.ne.jp -d -i
