@@ -214,9 +214,21 @@ Webプログラムを勉強した
 　さずがに４作目になって、自作の表紙もそれなりに見栄えのするものになったと思います。
 　このランキング１位が、わたしの雪玉コロコロになるのかは、まだわかりません。ですが、今は本を書くことを楽しんでいます。定職にもついていますので、ギリギリの生活ですが、先をそれほど心配しないですみます。
 
-　わたしが会社を辞めて何をやったか。回り道のすえに、再就職することでした。
 
+電子出版した本を英訳してみた
+　電子出版した本が売れないとなると、考えることは市場を広げるための英訳です。
+　これもやってみました。
+　以下、拙い訳ですがみてください。
 
+Introduction
+ It does not sound good, but I think I am a midioka person in various ways. I graduated from a national university (In Japan it's better than public schools), but it's not famous. I went on to enter in graduate course, but quit before getting a doctoral degree. I studied at a university in the U.S, but it's not either famous nor could I accepted as a Ph.D candidate. After graduating from a university in Japan, I got a job at a small company but never promoted to a supervisor. It seems I should have gone to one step further but I didn't and my career as an engineer was ended with poor performance. Now I'm 58.
+ I decided to quit my job in 2016 after 30 years of work as a poor employee, and looked for a way to make a living as a freelance engineer for about 2 years. This document is a summery of my challenge.
+
+ As a conclusion, the way to a self employee is like climbing a steep hill. It's not easy to get money as an individual than it would be as an employee.
+ You would see many books titled like "Programming for dummys". But the fact is, a real dummy can't write a program, and such books sell many copies because there are a lot of dummys who can't write a program. Well, it's not a very good example since I can write a program and I am kind of a dummy.
+ The reason I write this document is that if you are amming to become a self employee
+
+　２つ目のパラグラフから、話がおかしくなっていることに気づく人はいるでしょう。アメリカではそもそも副業をもつことがそう珍しくはありません。世間の仕事に対する意識が違うのです。また、給料のレベルもなぜかは知りませんが、だいぶ違います。アメリカ企業で働いたことのある日米ハーフの人と話をした時、わたしの年収を教えたら、「冗談だろう」といって笑っていました。まあ、彼はMIT出身ですからそもそもわたしとは素性からしてちがいますが・・・
 
 
 ＜＜＜＜＜引き寄せもやった＞＞＞＞＞
@@ -230,3 +242,30 @@ Webプログラムを勉強した
 ＜＜＜＜＜電子書籍を書くためのマインドセット。文章ではない、「記述」だ。無駄な形容詞は必要ない。＞＞＞＞＞
 ＜＜＜＜＜引き寄せのからくり、徹底的に。心理トリックという観点から＞＞＞＞＞
 ＜＜＜＜＜発掘、まだ掘れる＞＞＞＞＞
+
+＜＜＜＜＜これ、どうよ＞＞＞＞
+December 5, 2020
+
+はじめに
+　情けない話ですが、わたしは自分をいろいろな意味で中途半端な人間だと思っています。卒業した大学は国立ですが地方の無名大学です。大学院には行きましたが修士で終わりました。留学はしましたが有名どころではなく、これもマスターコースで終わりました。無名企業に就職しましたが管理職にはなれませんでした。どうもいつも今一歩の感じがつきまとい、会社員としては失敗でした。気がつけば５８歳です。
+　そんなわたしが早期退職という決断をし、２年ほどフリーランスの方向を模索した結果をまとめました。
+
+I 
+ 　結論から言うと、自営業の道は険しいものです。簡単に自力でお金を稼げるほど世の中はあまくありません。
+　世間には副業で成功したと言う本、好きを仕事にと言う本が溢れていますが、本になって売れると言うことは、それが珍しいことだからだと思います。わたしのように失敗した人が本を書かないのは、ありふれているからです。わたしが敢えてこの本を書こうと思ったのは、あまい夢をみている人に喝をいれ、やるなら本気でやれと言うためです。何事も中途半端な気持ちでは成功しません。これからフリーランスをめざとうと言う人、会社を辞めてセミリタイアを考えている人は、本書を他山の石として自分の進む方向を見極めてください。
+
+ 
+ 
+ 
+ 
+ ＜＜＜＜＜
+ 
+ ダメだ。アメリカでは成り立たない。そもそもアメリカ人は会社をやめることに躊躇はないし、フリーランスになるのは難しくない。
+ 
+ なんで日本はダメか考えると、労働市場の様子が全然違う。
+ 
+ ＞＞＞＞＞
+ ＜＜＜＜＜　　　　＞＞＞＞＞
+ 
+ 
+ 　わたしが会社を辞めて何をやったか。回り道のすえに、再就職することでした。
