@@ -1,0 +1,28 @@
+body {
+	background-image: url(IMG_0014N.jpg);
+	margin : 30px;
+    padding : 20px;
+    border : 10px solid green;
+}
+
+#intro {
+	color: #00ff00;
+	font-size: 40px;
+}
+
+#sudoprogram {
+	color: #00ff00;
+	font-size: 40px;
+}
+
+p {
+	font-size: 40px;
+}
+
+form.p {
+	width 200px;
+	hight 30px;
+	font-size 20px;
+	color: #0000ff;
+}
+

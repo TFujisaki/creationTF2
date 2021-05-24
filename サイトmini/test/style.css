@@ -1,0 +1,12 @@
+h1 {
+font-size:40px;
+color:#ff0000;
+}
+
+body {
+background-color:#ff0000;
+}
+
+p.resizeimage img {
+width:100%;
+}
