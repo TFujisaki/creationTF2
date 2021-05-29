@@ -9,6 +9,11 @@ p {
 	font-size : 40px;
 }
 
+h1 {
+	font-size : 45px;
+	color : #ee4422;
+}
+
 #title {
 	color : #ff0000;
 }
