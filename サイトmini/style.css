@@ -27,8 +27,17 @@ h1 {
 }
 
 #image2 {
-	text-align : center;
+	text-align : right;
 }
+	
+#image3 {
+	text-align : left;
+}
+
+#image4 {
+	text-align : left;
+}
+
 
 p1 {
 	font-size : 45px;
